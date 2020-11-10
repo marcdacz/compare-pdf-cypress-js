@@ -1,0 +1,14 @@
+{
+  "name": "compare-pdf-cypress-js",
+  "version": "1.0.0",
+  "description": "Compare-Pdf Demo Project using Cypress",
+  "author": "",
+  "scripts": {
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "dependencies": {
+    "compare-pdf": "^1.0.9",
+    "cypress": "^5.6.0"
+  }
+}
